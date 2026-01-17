@@ -3,7 +3,7 @@
 
 ![homerack](https://github.com/user-attachments/assets/f59f7bee-c839-48b2-ba6a-872ffb86c3ae)
 
-> This mini rack proves that building a serious networking lab doesn’t require a full-size server cabinet or power-hungry equipment. With everyday home computers, you can create an efficient, quiet, and highly educational homelab in a small footprint.
+> This mini server rack proves that building a serious networking lab doesn’t require a full-size server cabinet or power-hungry equipment. With everyday home computers, you can create an efficient, quiet, and highly educational homelab in a small footprint.
 
 ## Design Philosophy
 
