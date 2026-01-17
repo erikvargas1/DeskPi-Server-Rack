@@ -1,6 +1,6 @@
 ## DeskPi-Server-Rack
 
-![heyhey(1)](https://github.com/user-attachments/assets/a0a97042-2614-4521-84c5-a753fcee28be)
+![hehey](https://github.com/user-attachments/assets/0d29696a-23eb-469e-9982-7706e584b287)
 
 ## Design Philosophy
 
