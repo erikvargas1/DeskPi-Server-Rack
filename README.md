@@ -1,4 +1,4 @@
-## Mini-Server-Rack
+## DeskPi-Server-Rack
 
 
 ![homerack](https://github.com/user-attachments/assets/f59f7bee-c839-48b2-ba6a-872ffb86c3ae)
