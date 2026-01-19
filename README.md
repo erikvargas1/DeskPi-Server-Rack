@@ -13,10 +13,11 @@ My mindset behind choosing this equipment was based on a few core principles:
 ----
 
 ## Tools & Technologies
-- PiHole for DNS filterning
-- 
 
-
+- **Pi-hole** enables network-wide DNS filtering to block ads and trackers, improving privacy and performance for all devices without client-side software.
+- **OPNsense** is an open-source firewall and routing platform providing stateful packet inspection, NAT, VLAN routing, and advanced security services.
+- **Proxmox** is a Type-1 hypervisor built on Debian that supports both KVM virtual machines and LXC containers.
+- **Ubiquiti UniFi** provides centrally managed networking hardware, including switches and wireless access points. I use it for reliable performance, clean network visibility, and simplified management across my entire home lab.
 
 ----
 
@@ -45,15 +46,7 @@ HP EliteDesk 800 G4 | Intel Core i5-8500T | 16GB RAM | 250GB NVMe SSD
 
 -----
 
-
-
-
-## Objectives
-
-
 ## Project Breakdown 
-
-
 
 
 -----
