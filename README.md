@@ -46,29 +46,6 @@ HP EliteDesk 800 G4 | Intel Core i5-8500T | 16GB RAM | 250GB NVMe SSD
 
 -----
 
-## Project Breakdown 
-
-
------
-
-### Why I choose OPNSense over pfSense 
-
-<img width="200" height="120" alt="image" src="https://github.com/user-attachments/assets/bb120692-af67-4ea4-a1e7-a1ad4be3bcfe" />
-
-
-OPNSense boasts quite the roaster of features3, most relevant among those for me were the following:
-- 802.1Q VLAN support and Stateful Firewalls: Which would allow me to reproduce the network segregation I had previously implemented for my IoT devices.
-- VPN support: Both as a server and a client with support for IPSec, OpenVPN, and Wireguard.
-- Intrusion detection and prevention systems.
-- A comprehensive catalog of plugins.
-- Simple configuration backup & restore mechanism.
-- Weekly security updates with a twice-a-year releasing strategy.
-
-All of these features are made even more accessible thanks to a very elegant UI which also enables easy reporting and monitoring. Finally, the project boasts and exhaustive online documentation and rich community which would make future debugging hopefully not too much of a headache.
-
-
--------
-
 
 
 
