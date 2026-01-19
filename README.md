@@ -24,7 +24,6 @@ My mindset behind choosing this equipment was based on a few core principles:
 ## Server Rack Equipment
 
 > Compute nodes
-
 Lenovo ThinkCentre M920q | Intel Core i5-8500T | 16GB RAM | 500GB NVMe SSD
 - PCIe x16 Riser Card
 - iPolex Dual-Port Gigabit NIC Intel I350-AM2 Controller PCIe 2.1 x4
